@@ -18,7 +18,7 @@ All labs were performed using the official **SEED Ubuntu pre-built Virtual Machi
 
 ## 📂 Laboratory Collection
 
-### 1. [Environment Variable and Set-UID Program](https://www.google.com/search?q=./Environment_Variable_Lab)
+### 1. [Environment Variable and Set-UID Program](https://github.com/Diogo-Rodriigues/Seed-Labs/tree/main/Environment%20Variables.%20and%20Set-UID%20Lab)
 
 Exploration of how environment variables affect the behavior of privileged programs.
 
