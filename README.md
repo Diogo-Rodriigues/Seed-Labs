@@ -18,19 +18,19 @@ All labs were performed using the official **SEED Ubuntu pre-built Virtual Machi
 
 ## 📂 Laboratory Collection
 
-### 1. [Environment Variable and Set-UID Program](https://github.com/Diogo-Rodriigues/Seed-Labs/tree/main/Environment%20Variables.%20and%20Set-UID%20Lab)
+### 1. [Environment Variable and Set-UID Program](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)
 
 Exploration of how environment variables affect the behavior of privileged programs.
 
 * **Key Topics:** `fork()` vs `execve()`, `PATH` manipulation, `LD_PRELOAD` exploits, and capability leaking.
 
-### 2. [Buffer Overflow Set-UID Lab](https://www.google.com/search?q=./Buffer_Overflow_Lab)
+### 2. [Buffer Overflow Set-UID Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/)
 
 Deep dive into memory corruption and stack-based overflows to gain root access.
 
 * **Key Topics:** Stack frames, Return Address hijacking, NOP Sleds, and bypassing **ASLR**, **StackGuard**, and **NX**.
 
-### 3. [Return-to-libc Attack Lab](https://www.google.com/search?q=./Return_to_libc_Lab)
+### 3. [Return-to-libc Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/)
 
 Advanced exploitation focusing on bypassing the **Non-executable Stack (NX)** protection.
 
